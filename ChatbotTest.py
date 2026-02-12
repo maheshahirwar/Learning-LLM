@@ -14,6 +14,8 @@ chat = ChatOllama(
 )
 
 # response = chat.invoke("Explain AI in simple words")
+
+
 # response = chat.invoke(
 #    [
 #         SystemMessage(content="You are an international chef that specializes in making sandwiches."),
